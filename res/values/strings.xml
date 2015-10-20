@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BottomDialogFragment</string>
+    <string name="hello_world">Hello world, I am Li2!</string>
+    <string name="action_settings">Settings</string>
+    <string name="show_dialog">Show Dialog</string>
+    <string name="hide_dialog">Hide Dialog</string>    
+
+</resources>
